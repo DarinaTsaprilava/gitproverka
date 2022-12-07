@@ -1,0 +1,15 @@
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\bin\Debug\net6.0\PROVERKAGIT.exe
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\bin\Debug\net6.0\PROVERKAGIT.deps.json
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\bin\Debug\net6.0\PROVERKAGIT.runtimeconfig.json
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\bin\Debug\net6.0\PROVERKAGIT.dll
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\bin\Debug\net6.0\PROVERKAGIT.pdb
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\obj\Debug\net6.0\PROVERKAGIT.csproj.AssemblyReference.cache
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\obj\Debug\net6.0\PROVERKAGIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\obj\Debug\net6.0\PROVERKAGIT.AssemblyInfoInputs.cache
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\obj\Debug\net6.0\PROVERKAGIT.AssemblyInfo.cs
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\obj\Debug\net6.0\PROVERKAGIT.csproj.CoreCompileInputs.cache
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\obj\Debug\net6.0\PROVERKAGIT.dll
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\obj\Debug\net6.0\refint\PROVERKAGIT.dll
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\obj\Debug\net6.0\PROVERKAGIT.pdb
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\obj\Debug\net6.0\PROVERKAGIT.genruntimeconfig.cache
+C:\Users\Дурик Дорик\Desktop\PROVERKAGIT\obj\Debug\net6.0\ref\PROVERKAGIT.dll
